@@ -1,10 +1,10 @@
 # **Vector Dot Product Implementation**
 
 ## **Introduction**  
-The _dot product_ is a fundamental operation in linear algebra that takes two vectors and returns a scalar value. This operation is widely used in fields such as:
+> The _dot product_ is a fundamental operation in linear algebra that takes two vectors and returns a scalar value. This operation is widely used in fields such as:
+- Physics
+- Machine Learning
 - Computer graphics
-- Machine learning
-- Physics.
 
 ---
 
@@ -34,30 +34,14 @@ result = dot_product(vec_a, vec_b)
 print("Dot product:", result)
 ```
 ---
-## Here is a diagram elaborating the mathematical equation graphically.
+## Here is a diagram elaborating the mathematical equation graphically.[^1]
 
 ![vector dot product](dot_product.png)
 
-[^1]: This image has been taken from `cuemath.com`.
+[^1]: This image has been taken from `https://byjus.com/maths/dot-product-of-two-vectors/`.
 
-
-Here is a list of all what has been included in this readme file:
-- [x] Headings
-- [x] styling
-- [x] text quoting
-- [x] lists
-- [x] checklists
-- [ ] links
-- [x] images
-- [ ] tables
-- [x] footnotes
-- [x] mathematical equations
-- [x] code
-- [ ] alerts
-
-
-> [!CAUTION]
-> Sometimes such critical information may lead to end of the world, so use it responsively.
+> [!WARNING]
+> Information should be handled safely.
 
 
 | version of algorithm       | time complexity          | space complexity  |
@@ -67,3 +51,20 @@ Here is a list of all what has been included in this readme file:
 | version 3 | O(nlogn)      |    O($n^2$) |
 
 For more help you can visit [Byju's website](https://byjus.com/)
+
+Here is a list of all what has been included in this readme file:
+- [x] Headings
+- [x] styling
+- [x] text quoting
+- [x] lists
+- [x] checklists
+- [x] links
+- [x] images
+- [x] tables
+- [x] footnotes
+- [x] mathematical equations
+- [x] code
+- [x] alerts
+- [x] emojis
+
+For our hardwork here's a little celebration :tada: :tada:      
